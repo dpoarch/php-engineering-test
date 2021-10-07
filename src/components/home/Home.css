@@ -1,0 +1,14 @@
+h3 {
+  margin: 40px 0 0 !important;
+}
+ul {
+  list-style-type: none !important;
+  padding: 0 !important;
+}
+li {
+  display: inline-block !important;
+  margin: 0 10px !important;
+}
+a {
+  color: #42b983 !important;
+}

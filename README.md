@@ -4,7 +4,7 @@
 ```
 Run Build.sh
 ```
-If Build.sh doesn't failed to start run:
+If Build.sh doesn't fail to start, run:
 ```
 docker build -t dockervue .
 ```

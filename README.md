@@ -1,24 +1,26 @@
-# dockervue
+# PHP-Engineer-test
 
 ## Project setup
 ```
-npm install
+Run Build.sh
+```
+If Build.sh doesn't failed to start run:
+```
+docker build -t dockervue .
 ```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+docker run -p 8000:80 -it --name dockervue dockervue
 ```
 
-### Lints and fixes files
 ```
-npm run lint
+docker-compose up
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Project runs at port:
+```
+http://localhost:8000/
+```
+
+![alt text](https://imgur.com/6AdNQtn)
+

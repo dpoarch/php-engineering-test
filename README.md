@@ -22,5 +22,5 @@ docker-compose up
 http://localhost:8000/
 ```
 
-![Preview](https://i.imgur.com/6AdNQtn.jpg)
+![alt text](https://i.imgur.com/6AdNQtn.jpg)
 
